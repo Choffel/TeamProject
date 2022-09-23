@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../kinomonster"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TeamProgject",
+		"liveServer.settings.port": 5501
+	}
+}
